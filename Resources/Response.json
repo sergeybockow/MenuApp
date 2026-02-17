@@ -1,0 +1,54 @@
+{
+    "content_items": [
+        {
+            "title": "Chicken and fries",
+            "image_url": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=300,format=auto,quality=50/https://cdn.doordash.com/media/photos/a3aff42d-b591-4053-9312-1e6ba3f84f30-retina-large-jpeg",
+            "description": "Chicken with a light and crisp taste. Served with salty french fries and a chili sause"
+        },
+        {
+            "title": "Samosas",
+            "image_url": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=300,format=auto/https://doordash-static.s3.amazonaws.com/media/photos/c7e28663-edb9-4e84-a83b-3f909a63e661-retina-large-jpeg",
+            "description": "Crispy, flaky & delicious homemade samosas, potato stuffed. Extra spicy. This deep-fried pastry also contains different herbs for a rich taste."
+        },
+        {
+            "title": null,
+            "image_url": null,
+            "description": "Greek salad with kalamata olives and tzatziki sauce. Serves 4 people. Best plant-based meal on the menu."
+        },
+        {
+            "title": null,
+            "image_url": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=300,format=auto/https://doordash-static.s3.amazonaws.com/media/photos/e6801233-0609-41a7-8d05-542c0db491fd-retina-large-jpeg",
+            "description": "Thai-Infused sweet potato noodle sauté with mixed green salad. Served with an olive oil."
+        },
+        {
+            "title": "Fries and chicken",
+            "image_url": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=300,format=auto,quality=50/https://cdn.doordash.com/media/photos/a3aff42d-b591-4053-9312-1e6ba3f84f30-retina-large-jpeg",
+            "description": "French fries with crispy chicken breasts and a sweet and sour sauce"
+        },
+        {
+            "title": "Shrimp Pad Thai",
+            "image_url": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=300,format=auto/https://doordash-static.s3.amazonaws.com/media/photos/b60d579f-424b-4b7c-81bd-1ca213a8c539-retina-large-jpeg",
+            "description": "Amazing taste. Rice noodles, chicken, shrimp, tofu, cilantro, bean sprouts, peanuts, and scrambled eggs tossed in a delicious homemade pad Thai sauce"
+        },
+        {
+            "title": null,
+            "image_url": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=300,format=auto/https://doordash-static.s3.amazonaws.com/media/photos/9c5fafc4-2cff-47dd-a617-6b264e7201d7-retina-large-jpeg",
+            "description": "Juicy chicken curry with veggies and herbs. Rich and creamy taste with basmati rice or naan bread"
+        },
+        {
+            "title": "Greek salad",
+            "image_url": null,
+            "description" : "A salad with kalamata olives and tzatziki sauce. Serves 4 people. Best plant-based meal on the menu."
+        },
+        {
+            "title": null,
+            "image_url": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=300,format=auto/https://doordash-static.s3.amazonaws.com/media/photos/24a7c945-d9a6-47f6-89ba-eb5a19d5235e-retina-large-jpeg",
+            "description": "Flaky & soft parathas served with an extraordinary curry dipping sauce that has just a bit of heat to keep you coming back for more"
+        },
+        {
+            "title": "Pad Thai",
+            "image_url": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=300,format=auto/https://doordash-static.s3.amazonaws.com/media/photos/efe6fc2a-4f14-43e2-8e23-751c49d851d7-retina-large-jpeg",
+            "description": "Amazing taste. Rice noodles, chicken, shrimp, tofu, cilantro, bean sprouts, peanuts, and scrambled eggs tossed in a delicious homemade pad Thai sauce"
+        }
+    ]
+}
